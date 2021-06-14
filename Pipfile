@@ -12,6 +12,7 @@ tensorflow = "2.5"
 tensorflow-hub = "*"
 certifi = "*"
 pillow = "*"
+scipy = "*"
 
 [dev-packages]
 

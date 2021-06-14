@@ -39,5 +39,5 @@ jupyter notebook
 
 Для работы с детектором нам понадобиться ещё пара библиотек
 ```shell
-
+pipenv install scipy pillow
 ```
