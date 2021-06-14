@@ -8,8 +8,10 @@ jupyter = "*"
 ipykernel = "*"
 matplotlib = "*"
 numpy = "*"
-tensorflow = "*"
+tensorflow = "2.5"
 tensorflow-hub = "*"
+certifi = "*"
+pillow = "*"
 
 [dev-packages]
 

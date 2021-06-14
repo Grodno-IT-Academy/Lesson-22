@@ -23,6 +23,9 @@ pipenv install matplotlib numpy tensorflow tensorflow_hub
 pipenv lock --pre
 pipenv sync
 ```
+Так-же есть промлема на макос с сертификатами так-что можно воспользоваться гидом на этой странице чтобы устранить проблему:
+https://medium.com/@yen.hoang.1904/resolve-issue-ssl-certificate-verify-failed-when-trying-to-open-an-url-with-python-on-macos-46d868b44e10
+
 Если работаем с клонированой репозиторией пользуемся командой `pipenv install --deploy`
 
 Далее запустим нашу среду и тетрадь.
@@ -33,3 +36,8 @@ jupyter notebook
 Дальше мы будем следовать `TF Hub` https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/tf2_arbitrary_image_stylization.ipynb#scrollTo=v-KXRY5XBu2u
 
 Откройте `Style Transfer.ipynb`
+
+Для работы с детектором нам понадобиться ещё пара библиотек
+```shell
+
+```
