@@ -6,7 +6,6 @@ name = "pypi"
 [packages]
 jupyter = "*"
 ipykernel = "*"
-matplotlib = "*"
 numpy = "*"
 tensorflow = "2.5"
 tensorflow-hub = "*"
@@ -16,6 +15,8 @@ scipy = "*"
 opencv-python = "*"
 pyqt5 = "*"
 lxml = "*"
+protobuf = "*"
+matplotlib = "==3.2"
 
 [dev-packages]
 
