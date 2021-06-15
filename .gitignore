@@ -3,4 +3,7 @@
 .idea
 file.png
 models
-TFODCourse
+ObjectDetection/.ipynb_checkpoints
+ObjectDetection/Tensorflow
+ObjectDetection/README.md
+ObjectDetection/Error Guide.md
