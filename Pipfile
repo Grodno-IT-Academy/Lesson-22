@@ -13,6 +13,9 @@ tensorflow-hub = "*"
 certifi = "*"
 pillow = "*"
 scipy = "*"
+opencv-python = "*"
+pyqt5 = "*"
+lxml = "*"
 
 [dev-packages]
 
